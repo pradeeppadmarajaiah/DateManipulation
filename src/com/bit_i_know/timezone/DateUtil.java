@@ -46,7 +46,7 @@ public class DateUtil {
 	}
 
 	/**
-	 * Return current hour of the day.
+	 * Return current month.
 	 * 
 	 * @return
 	 */
@@ -57,7 +57,7 @@ public class DateUtil {
 	}
 
 	/**
-	 * Return current hour of the day.
+	 * Return current day.
 	 * 
 	 * @return
 	 */
